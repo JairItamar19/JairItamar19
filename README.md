@@ -1,4 +1,4 @@
-![Header Image](./after-sky.jpg)
+![Header Image](./rock%20ocean%201.jpg)
 
 # Hello, I'm Jair Itamar 👋
 
