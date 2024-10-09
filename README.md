@@ -1,4 +1,4 @@
-<img src="./welcome.jpeg" alt="Header Image" width="100%" height="250">
+<img src="./welcome.jpeg" alt="Header Image" width="100%" height="300">
 
 # Hello, I'm Jair Itamar 👋
 
