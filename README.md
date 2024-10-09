@@ -1,4 +1,4 @@
-![Header Image](./after.jpg)
+![Header Image](./after%20sky.jpg.jpg)
 
 # Hello, I'm Jair Itamar 👋
 
