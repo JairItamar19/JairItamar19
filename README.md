@@ -1,4 +1,4 @@
-<img src="./welcome.jpeg" alt="Header Image" width="100%" height="300">
+<img src="https://assets.airtrfx.com/media-em/aav/6452ed4bc8531_AcapulcoCondesa_EMHero.jpg" alt="Header Image" width="100%" height="300">
 
 # Hello, I'm Jair Itamar 👋
 
