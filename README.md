@@ -1,4 +1,4 @@
-![Header Image](https://via.placeholder.com/1200x300)
+![Header Image](./after.jpg)
 
 # Hello, I'm Jair Itamar 👋
 
