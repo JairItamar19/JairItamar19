@@ -1,6 +1,6 @@
 ![Header Image](https://via.placeholder.com/1200x300)
 
-# Hola, soy [Tu Nombre] 👋
+# Hola, soy Jair Itamar 👋
 
 Soy un desarrollador de software apasionado por crear soluciones eficientes y elegantes. Me encanta aprender nuevas tecnologías y aplicar mis conocimientos para resolver problemas desafiantes. Aquí podrás encontrar algunos de mis proyectos y colaboraciones.
 
@@ -12,7 +12,3 @@ Soy un desarrollador de software apasionado por crear soluciones eficientes y el
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
----
-
-Espero que esto te ayude a dar una buena impresión en tu perfil de GitHub. Si necesitas algo más, aquí estoy. 😃
