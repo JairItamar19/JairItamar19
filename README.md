@@ -1,4 +1,5 @@
 ![Header Image](./welcome.jpeg)
+<img src="./welcome.jpeg" alt="Header Image" height="100">
 
 # Hello, I'm Jair Itamar 👋
 
