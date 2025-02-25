@@ -2,7 +2,7 @@
 
 # Hello, I'm Jair Itamar 👋
 
-I'm a software developer passionate about creating efficient and elegant solutions. I love learning new technologies and applying my knowledge to solve challenging problems. Here you can find some of my projects and collaborations.
+I'm a software developer passionate about creating efficient and elegant solutions. I love learning new technologies and applying my knowledge to solve challenging problems.
 
 ## Languages and Tools:
 
